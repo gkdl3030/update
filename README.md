@@ -3,8 +3,13 @@
 
 1. 회원가입을 한다<br>
 2. 리스트가 나오면 수정을 한다.
+3. 수정 했다는 알림이 뜬다.
+4. 수정 완료
 
 ![image](https://user-images.githubusercontent.com/80745282/172828590-d20ecac5-11d3-4d17-befe-a4c1daffcf21.png)
+
+![image](https://user-images.githubusercontent.com/80745282/172829306-49dc7f29-e861-4e67-be37-98773bd50559.png)
+
 
 
 # 수정 전
