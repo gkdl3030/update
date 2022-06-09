@@ -1,7 +1,7 @@
 # 기본 회원정보 입력에서 코드소스를 수정
 
-1.회원가입을 한다<br>
-2.리스트가 나오면 수정을 한다.
+1. 회원가입을 한다<br>
+2. 리스트가 나오면 수정을 한다.
 
 ![image](https://user-images.githubusercontent.com/80745282/172828590-d20ecac5-11d3-4d17-befe-a4c1daffcf21.png)
 
