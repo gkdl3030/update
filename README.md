@@ -20,4 +20,9 @@
 
 ![image](https://user-images.githubusercontent.com/80745282/172828909-a05b759d-4b17-4b25-bdac-645f45f7c761.png)
 
+# db 수정 결과
+
+![image](https://user-images.githubusercontent.com/80745282/172829622-ac0e97eb-ae10-42a1-8abb-e6f397122c18.png)
+
+
 
